@@ -1,1 +1,1 @@
-A collection of some algorithms and data structures.
+A collection of some algorithms and data structures solved my some of my favirite languages.
