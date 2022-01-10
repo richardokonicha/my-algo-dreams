@@ -1,4 +1,4 @@
-const twoSum = (num: Array<number>, target: number) => {
+const twoSum = (num: Array<number>, target: number): Array<number> => {
     let nums = num.slice()
     nums.sort(function (a, b) { return a - b });
     let a_pointer = 0;
