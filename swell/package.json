@@ -1,0 +1,12 @@
+{
+  "name": "my-algo-dreams",
+  "version": "1.0.0",
+  "main": "swell-gist.js",
+  "type": "module",
+  "repository": "git@github.com:konichar/my-algo-dreams.git",
+  "author": "Richie <richardokonicha@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "swell-js": "^3.12.2"
+  }
+}
