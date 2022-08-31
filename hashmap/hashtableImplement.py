@@ -28,7 +28,6 @@ class Hashtable:
     hashcode = hash(key)
     hashindex = hashcode % self.size
     hashpointer = self.hashList[hashindex]
-    found = False
     for index, i in enumerate(hashpointer):
       if i[0] == key:
         hashpointer.pop(index)
